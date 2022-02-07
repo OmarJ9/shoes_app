@@ -1,16 +1,28 @@
-# shoes_shop_ui
+# Shoes App UI
 
-A new Flutter project.
+A simple App UI for a Shoes Shop.
 
-## Getting Started
+#### Packages :
+- animate_do
+- google_fonts
+- page_transition
+- badges
+- awesome_dialog
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Features :
+- Add/Remove Items from Favorite List.
+- Add/Remove Items from Cart.
+- Choose The Size of an Item.
+- Choose how many items you want to buy.
+- Nice and smooth animations.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Video :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/94150328/152805079-f3b345c5-6795-46ba-adb1-591b442f3990.mp4
+
+
+**=> This app is inspired by the work of [Afgprogrammer](https://github.com/afgprogrammer)**
+
+
+
